@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/html":{"guestpath":"/home/vagrant/html","hostpath":"C:/Users/User02/Documents/RC1Projectos/Lab3/multinode-webserver/html","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/User02/Documents/RC1Projectos/Lab3/multinode-webserver","disabled":false,"__vagrantfile":true}}}
